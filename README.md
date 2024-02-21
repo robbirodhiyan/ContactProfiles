@@ -28,12 +28,13 @@ Before you begin, ensure you have met the following requirements:
 
     ```bash
     composer install
+    npm install
     ```
 
-4. Copy the `.env.example` file to `.env`:
+4. import database:
 
     ```bash
-    cp .env.example .env
+    contactprofiles.sql
     ```
 
 5. Generate an application key:
