@@ -15,13 +15,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/laravel-contact-profiles.git
+    git clone https://github.com/robbirodhiyan/ContactProfiles.git
     ```
 
 2. Navigate to the project's root directory:
 
     ```bash
-    cd laravel-contact-profiles
+    cd ContactProfiles
     ```
 
 3. Install dependencies:
