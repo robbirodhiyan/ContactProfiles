@@ -31,10 +31,10 @@ Before you begin, ensure you have met the following requirements:
     npm install
     ```
 
-4. import database:
+4. Copy the `.env.example` file to `.env`:
 
     ```bash
-    contactprofiles.sql
+    cp .env.example .env
     ```
 
 5. Generate an application key:
@@ -62,11 +62,3 @@ The application should now be accessible at `http://localhost:8000`.
 ## Usage
 
 - Visit `http://localhost:8000/contact-profiles` to access the contact profiles.
-
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
